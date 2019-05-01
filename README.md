@@ -18,7 +18,7 @@ and local viewing via:
 * planefinder web UI
 * VirtualRadar web UI
 
-# Status
+# Status IGNORE
 | Branch | Status |
 |--------|--------|
 | latest | [![Build Status](https://travis-ci.org/TheBiggerGuy/docker-ads-b.svg?branch=latest)](https://travis-ci.org/TheBiggerGuy/docker-ads-b) |

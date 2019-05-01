@@ -11,7 +11,7 @@ services:
         - thebiggerguy/docker-ads-b-dump1090
         - thebiggerguy/docker-ads-b-dump1090:${TAG:-latest}
       args:
-        DUMP1090_VERSION: git-883399c
+        DUMP1090_VERSION: v3.7.0.1
         DUMP1090_GIT_HASH: 883399cee3bc7e6c990b1b706537fa2673900696
         DUMP1090_TAR_HASH: a7512e9f292348d840f18501ff4004a8d3e13f37947d66183dee0e279c4b6939
     ports:
